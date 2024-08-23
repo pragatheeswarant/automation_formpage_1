@@ -10,6 +10,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+    "@wdio/browserstack-service": "^9.0.7",
     "@wdio/cli": "^9.0.6",
     "node": "18.20"
   },
